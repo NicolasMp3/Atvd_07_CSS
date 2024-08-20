@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(182, 251, 253); /*Pode escolher outra cor se quiser*/
+  }
+  
+  h1 {
+    color: rgb(229, 255, 0); /*Pode escolher outra cor se quiser*/
+    text-align: center;
+    font-size: 36px;
+    background-color: rgb(1, 121, 115)
+    
+  }
+  h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  h2 {
+    color: rgb(1,121, 115); /*Pode escolher outra cor se quiser*/
+    text-align: center;
+    font-size: 28px;
+    border: 5px solid rgb(1,121, 115);
+  }
+  div {
+    color: rgb(1,121, 115);
+    background-color: rgb(229, 255, 0);
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 5px solid rgb(1,121, 115);
+    border-radius: 5px;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+  p {
+    padding: 20px 10px;  /* Vertical  Horizontal */
+  }
+  
+  body {
+    color: rgb(1, 29, 121);
+  }
+  ul {
+    list-style-type: square;
+  }
